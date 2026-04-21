@@ -1,5 +1,5 @@
-const add = require('./index.js')
+const add = require('./index');
 
 test('adds numbers', () => {
-    except(add(2,3)).toBe(5);
-})
+  expect(add(2, 3)).toBe(5);
+});
