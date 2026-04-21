@@ -1,0 +1,23 @@
+{
+  "name": "ci-cd-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragul-rofi/ci-cd-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ragul-rofi/ci-cd-demo/issues"
+  },
+  "homepage": "https://github.com/ragul-rofi/ci-cd-demo#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
